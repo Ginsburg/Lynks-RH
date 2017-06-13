@@ -1,6 +1,6 @@
 ## Accueil
 
-Le Lab RH. 
+Le Lab RH.  
 Vos préoccupations, nos explorations.
 
 Deloitte a publié son étude annuelle 2017 sur les tendances ressources humaines à laquelle plus de 10 000 leaders Business et RH (dont 299 en France) ont participé à travers 140 pays. Cette étude permet de mesurer le degré de maturité des ressources humaines face aux défis et aux nouvelles priorités auxquels elles sont confrontées, mais également l’importance qu’elles y accordent.  
