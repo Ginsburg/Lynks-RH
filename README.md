@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Accueil
 
-You can use the [editor on GitHub](https://github.com/Ginsburg/testsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Depuis déjà 14 ans, nous intervenons auprès des entreprises en optimisant leurs ressources humaines et en favorisant l’atteinte de leur stratégie d’affaires.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nous offrons des services de consultation, de recrutement, d’impartition en gestion des ressources humaines, des services pour la réalisation de votre équité salariale et proposons des stratégies et des outils de développement organisationnel.  
+
+Nos interventions sont personnalisées en fonction des besoins spécifiques de nos clients.  
+
+Nous préconisons des solutions simples tout en partageant notre savoir et notre expertise.  
+
+Les plus grandes réussites d’affaires se réalisent par des gens.  
+
+Votre succès organisationnel est d’ordre humain... 
 
 ### Markdown
 
